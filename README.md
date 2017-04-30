@@ -33,6 +33,7 @@ Warning 2: FutureWarning: order is deprecated, use sort_values(...)
 Solution: We need to use sort_values, everywhere
 
 ***Solved***
+
 ---------------
 
 ## Chapter 2. File: machine\ml_main.py
