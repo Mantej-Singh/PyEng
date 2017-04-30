@@ -33,6 +33,7 @@ Warning 2: FutureWarning: order is deprecated, use sort_values(...)
 Solution: We need to use sort_values, everywhere
 
 ***Solved***
+---------------
 
 ## Chapter 2. File: machine\ml_main.py
 
@@ -40,27 +41,33 @@ Solution: We need to use sort_values, everywhere
 
 ***Solved***
 
+---------------
+
 ## Chapter 3. File: Multiprocessing\gen_rand.py
 
 `Error:Missing parentheses in call to 'print'(fixed)`
 
 ***Solved***
 
+---------------
 
 ## Chapter 4. Audio
 
 ***NO Errors***
 
+---------------
 
 ## Chapter 5. Plotting
 
 ***NO Errors***
 
+---------------
 
 ## Chapter 6. WordCount
 
 ***NO Errors***
 
+---------------
 
 ## Chapter 7. File: Image_Video/color_test.py
 
